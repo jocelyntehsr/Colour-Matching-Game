@@ -29,3 +29,5 @@ After the game ends, a summary page will inform the player about the total time 
 
 # Demonstration of Game Play
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/s4LMGqaM3dk/0.jpg)](https://www.youtube.com/watch?v=s4LMGqaM3dk)
+
+The mouse may be insensitive sometimes, so we have to click multiple times to ensure that the program detects it.
