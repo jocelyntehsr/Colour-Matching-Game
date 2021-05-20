@@ -15,8 +15,11 @@ Then, gfx.c and gfx.h file must be downloaded in order to execute the game.
 This colour matching game has three stages, in which:
 
 1st stage: find two blocks that have same colour and click them one after another.
+
 2nd stage: find two different shapes with same colour and click them one after another.
-3rd stage: find two blocks with same shape and same colour, then click them one after another. 
+
+3rd stage: find two blocks with same shape and same colour, then click them one after another.
+
 Players use mouse to play the game while they can press 'Q' on the keyboard to quit it.
 
 The positions of the shapes and their colours are assigned randomly. 
